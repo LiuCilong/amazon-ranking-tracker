@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.txt
+*.xlsx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Edge WebDriver binary (download yourself)
+EDGEdriver/msedgedriver.exe
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
